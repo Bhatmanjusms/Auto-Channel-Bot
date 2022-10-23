@@ -1,18 +1,17 @@
-# Channel Automation Bot [@KGN_CHANNEL_MANAGER_BOT](https://t.me/KGN_CHANNEL_MANAGER_BOT)
+#
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://github.com/KGN-BOTS/Auto-Channel-Bot"><img src="https://telegra.ph/file/c54625bd6a4e08ffdb742.jpg" width="2000"></a></p>
+
 
 Telegram bot to automate and manage channels.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zahidempire/Auto-Channel-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bhatmanjusms/Auto-Channel-Bot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
